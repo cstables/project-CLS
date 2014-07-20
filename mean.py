@@ -3,6 +3,7 @@
 import sys
 
 sum = 4
+
 n = 0
 
 # Sum input values THIS IS NEW
