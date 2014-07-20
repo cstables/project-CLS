@@ -6,7 +6,7 @@ sum = 0
 n = 0
 
 # Sum input values
-for num in open('data.txt'):
+for num in open('data.txt'): #feeds in file automatically
 	sum += float(num) #new value of sum is sum + float(num)
 	n += 1
 	
