@@ -11,4 +11,4 @@ for num in open('data.txt'): #feeds in file automatically
 	n += 1
 	
 print sum / n
-
+#new change change
