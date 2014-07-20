@@ -2,7 +2,7 @@
 
 import sys
 
-sum = 0
+sum = 2
 n = 0
 
 # Sum input values
